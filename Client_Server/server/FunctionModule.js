@@ -28,7 +28,4 @@ function createPost(num) {
 }
 
 
-
-
-
 module.exports = createPost;
